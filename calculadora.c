@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-//Realizar las siguientes funciones
+//Realizar las siguientes funciones siguiendo el prototipo propuesto
 float calcula_Perimetro_Cuadrado(float a); //1  
 float calcula_Perimetro_Rectangulo(float a,float b); //2 
 float calcula_Perimetro_Triangulo(float a,float b, float c); //3
